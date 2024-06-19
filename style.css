@@ -1,0 +1,27 @@
+html {
+	background-color: rgb(44, 44, 44);
+	height: 100%;
+}
+
+#gif-form {
+	text-align: center;
+}
+
+#gif-list {
+	text-align: center;
+	list-style-type: none;
+}
+
+#gif-submit, #gif-clear, #gif-search {
+	height: 25px;
+}
+
+#gif-submit{
+	background-color: rgb(44, 44, 44);
+	color: white;
+}
+
+#gif-clear {
+	background-color: red;
+	color: white;
+}
